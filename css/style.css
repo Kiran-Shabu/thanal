@@ -29,6 +29,7 @@ html {
 .hero-img-wrap {
     position: relative;
 }
+
 .hero-img-wrap .overlay-img {
     position: absolute;
     top: 10px;
@@ -191,24 +192,24 @@ html {
     width: 100%;
   }
 
-  .custom-img {
-    transition: transform 0.2s;
-}
+
 .custom-img.hover-effect:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
-  /* .custom-img {
+  .custom-img {
 
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
-} */
+} 
 
-/* .custom-img:hover {
+ /* .custom-img:hover {
     transform: scale(1.05); 
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
 } */
+
+
   .whatsapp_float {
     position: fixed;
     width: 50px;
@@ -220,9 +221,9 @@ html {
     border-radius: 50px;
     text-align: center;
     font-size: 30px;
-    /* box-shadow: 3px 3px 4px #999; */
-    z-index: 100;
-  }
+     /* box-shadow: 3px 3px 4px #999;  */
+     z-index: 100;
+  } 
   .whatsapp-icon {
     margin-top: 10.5px;
     width: auto;
