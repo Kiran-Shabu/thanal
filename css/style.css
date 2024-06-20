@@ -212,8 +212,8 @@ html {
 
   .whatsapp_float {
     position: fixed;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     bottom: 40px;
     right: 40px;
     background-color: #25a855;
@@ -225,7 +225,7 @@ html {
      z-index: 100;
   } 
   .whatsapp-icon {
-    margin-top: 10.5px;
+    margin-top: 12px;
     width: auto;
     height: auto;
   }
@@ -272,6 +272,6 @@ footer a:hover {
     .location-map-section{ padding-top: rem;}
     .map-c-container{height: 320px}
     .map-container{ height: 300px; width: auto}
-    .whatsapp-icon { margin-top: 10px;}
-    .whatsapp_float { width: 40px; height: 40px; bottom: 20px; right: 10px; font-size: 22px;}
+    .whatsapp-icon { margin-top: 12px;}
+    .whatsapp_float { width: 50px; height: 50px; bottom: 20px; right: 10px; font-size: 22px;}
 }
